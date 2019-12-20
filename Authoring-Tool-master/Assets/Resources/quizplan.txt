@@ -1,0 +1,11 @@
+Quiz
+Master script
+- Reads csv, loads array of questions
+- Popluates question text block
+- Generates Buttons 
+- Populates button text
+- Stores score
+
+Button Script
+- Checks response and updates score in master
+- Triggers an event to display next question/end the quiz in master 

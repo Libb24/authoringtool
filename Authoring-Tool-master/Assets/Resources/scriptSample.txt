@@ -1,0 +1,4 @@
+<objType>,<Path in resources>,<From (seconds)>,<To (seconds)>
+1,SampleVideo,0,0
+starttime, endtime, type, name, scrubstart, scrubend
+5,15,1,SampleVideo,5,10

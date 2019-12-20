@@ -1,0 +1,4 @@
+<objType>,<Path in resources>,<init (seconds)>,<destroy (seconds)>,<scrub from>,<scrub to>
+1,SampleVideo,3,10,6,14
+3,London,5,15,3,10
+2,imgSample,8,13

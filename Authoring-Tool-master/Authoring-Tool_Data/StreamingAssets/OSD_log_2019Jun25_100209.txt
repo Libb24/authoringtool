@@ -1,0 +1,8 @@
+﻿> Application.streamingAssetsPath
+C:/Users/HCESC-1/Desktop/AT/Assets/StreamingAssets
+rsc.meta
+OSD_log_2019Jun25_100138.txt.meta
+OSD_log_2019Jun25_100138.txt
+OSD_log_2019Jun25_095450.txt.meta
+OSD_log_2019Jun25_095450.txt
+

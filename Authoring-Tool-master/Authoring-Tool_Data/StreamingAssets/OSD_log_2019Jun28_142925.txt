@@ -1,0 +1,27 @@
+﻿> Application.streamingAssetsPath
+C:/Users/HCESC-1/Desktop/AT/Authoring-Tool_Data/StreamingAssets
+OSD_log_2019Jun28_142625.txt
+OSD_log_2019Jun28_142522.txt
+OSD_log_2019Jun28_142016.txt
+OSD_log_2019Jun28_141809.txt
+OSD_log_2019Jun28_141705.txt
+OSD_log_2019Jun28_141607.txt
+OSD_log_2019Jun28_141516.txt
+OSD_log_2019Jun28_141403.txt
+OSD_log_2019Jun28_141115.txt
+OSD_log_2019Jun28_140857.txt
+OSD_log_2019Jun28_140755.txt
+OSD_log_2019Jun28_135948.txt
+OSD_log_2019Jun28_135840.txt
+OSD_log_2019Jun28_135642.txt
+OSD_log_2019Jun28_115201.txt
+OSD_log_2019Jun28_113710.txt
+OSD_log_2019Jun28_113610.txt
+OSD_log_2019Jun28_112243.txt
+OSD_log_2019Jun28_112102.txt
+OSD_log_2019Jun28_111855.txt
+OSD_log_2019Jun25_100209.txt
+OSD_log_2019Jun25_100138.txt
+OSD_log_2019Jun25_095450.txt
+demoScript.txt
+
